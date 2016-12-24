@@ -1,0 +1,142 @@
+body {
+						
+						background-color: black;
+						color:red;
+					}
+
+					#contanerDiv {
+
+						width: 70%;
+                        margin-left: 15%;
+                        margin-right: 15%;
+                        text-align: center; 
+                        background-color: #100f0f;    
+
+					}
+					h1 {
+						color:red;
+						text-align: center;  
+						font-style:bold;    
+
+					}
+					h2 {						
+						color:white;
+						text-align: center; 
+						font-style:bold;     
+						
+					}
+					h3 {
+						color:red;
+						text-align: center;  
+						font-style:bold;    
+					}
+					h1 {
+						color:red;
+						text-align: center; 
+						font-style:bold;     
+
+					}
+
+					p { color:#adadad;
+
+
+
+					}
+
+					p1 {						
+						color:blue;
+						text-align: left; 
+						font-style:italic; 
+						margin-bottom:15px; 
+						font-size:135%; 
+						text-decoration: underline;
+						
+					}
+					p2 {						
+						color:white;
+						text-align: left; 
+						font-style:bold; 
+						margin-bottom:15px;    
+						
+					}
+					p3 {
+						color:red;
+						text-align: left;  
+						font-style:italic; 
+						margin-bottom:15px; 
+					}
+
+
+
+
+/* ************************************************ */
+/* ************************************************ */
+/* ************************************************ */
+
+/* inherited from jq template in-line css */
+
+					.demoHeaders {
+						margin-top: 2em;
+						}
+					#dialog-link {
+						padding: .4em 1em .4em 20px;
+						text-decoration: none;
+						position: relative;
+						}
+					#dialog-link span.ui-icon {
+						margin: 0 5px 0 0;
+						position: absolute;
+						left: .2em;
+						top: 50%;
+						margin-top: -8px;
+						}
+					#icons {
+						margin: 0;
+						padding: 0;
+						}
+					#icons li {
+						margin: 2px;
+						position: relative;
+						padding: 4px 0;
+						cursor: pointer;
+						float: left;
+						list-style: none;
+						}
+					#icons span.ui-icon {
+						float: left;
+						margin: 0 4px;
+						}
+					.fakewindowcontain .ui-widget-overlay {
+						position: absolute;
+						}
+					select {
+						width: 200px;
+						}
+						
+					.clickforpop {
+
+						}
+
+					.rightfloat {
+						background-color:#fff;
+						width:200px;
+						float:right;
+
+						}
+					.primaryin {
+						font-size: 30px;         
+						background-color:#ebb2b3;
+						width:30px; height:36px;
+
+						position: relative;
+						left: 140px;
+						top: 20px
+						}
+					.primarybutt {
+
+						}
+					.postbutt {
+						background-color:#ea332a;
+						float:right;
+
+						}
